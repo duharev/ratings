@@ -1,4 +1,4 @@
-rootProject.name = "reitings"
+rootProject.name = "ratings"
 
 pluginManagement {
     val kotlinVersion: String by settings

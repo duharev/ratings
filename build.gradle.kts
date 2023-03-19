@@ -5,7 +5,7 @@ plugins {
     kotlin("jvm") apply false
 }
 
-group = "ru.duharev.reitings"
+group = "ru.duharev.ratings"
 version = "1.0-SNAPSHOT"
 
 allprojects {
