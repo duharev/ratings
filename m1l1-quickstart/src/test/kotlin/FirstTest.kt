@@ -1,4 +1,4 @@
-package ru.duharev.reitings.m1l1
+package ru.duharev.ratings.m1l1
 
 import org.junit.Test
 import kotlin.test.assertEquals
