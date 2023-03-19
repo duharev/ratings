@@ -1,11 +1,17 @@
-# Reitings
-A microservice for managing reitings (user, article, product, etc)
+# Ratings
+A microservice for managing ratings (user, article, product, etc)
 
 Учебный проект в рамках курса [Kotlin Backend Developer](https://otus.ru/lessons/kotlin/?int_source=courses_catalog&int_term=programming) (декабрь 2022)
 
 
 ## Визуальная схема фронтенда
-![Макет фронта](imgs/design-layout.png)
+### Карточка объекта со средними оценками
+![Макет карточки объекта со средней оценкой](imgs/rating-main-view.png)
+Если пользователь уже оценивал объект, 
+то вместо кнопки «Оценить» выводится кнопка «Изменить оценку»
+
+### Карточка объекта в кабинете пользователя
+![Макет карточки объекта в кабинете пользователя](imgs/rating-user-view.png)
 
 ## Документация
 
